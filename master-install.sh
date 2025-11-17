@@ -9,4 +9,5 @@
 . ./install-steam.sh
 . ./install-go.sh
 . ./install-tailscale.sh
+. ./install-chrome.sh
 
